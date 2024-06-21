@@ -8,17 +8,20 @@
 
 3학년 휴학 중
 
-# 주요 활동
+# 주요 활동  
+
 
 ## 프로젝트
 
 [재활의학과 EMR (데이터베이스 ic-pbl 과제)](https://github.com/mongsam2/emr)
 
- yolo v5 객체 탐지 실습 (인공지능실습 ic-pbl 과제)
+ yolo v5 객체 탐지 실습 (인공지능실습 ic-pbl 과제)  
+ 
 
 ## 멋쟁이 사자처럼 대학 12기
 
-[멋쟁이 사자 처럼 대학 12기 아이디어톤](https://github.com/mongsam2/Living-Together)
+[멋쟁이 사자 처럼 대학 12기 아이디어톤](https://github.com/mongsam2/Living-Together)  
+
 
 ## 개인 공부
 
