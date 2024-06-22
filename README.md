@@ -15,7 +15,7 @@
 
 [재활의학과 EMR (데이터베이스 ic-pbl 과제)](https://github.com/mongsam2/emr)
 
- yolo v5 객체 탐지 실습 (인공지능실습 ic-pbl 과제)  
+ [yolo v5 객체 탐지 실습 (인공지능실습 ic-pbl 과제)](https://github.com/mongsam2/YOLO-traffic_object_detection)  
  <br/>
  <br/>
  
