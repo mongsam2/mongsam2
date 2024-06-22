@@ -29,7 +29,7 @@
 
 ## 개인 공부
 
-[HTML / CSS 클론코딩 (노마드코 코코아톡 클론코딩)](https://github.com/mongsam2/kokoa-clone)
+[HTML / CSS (노마드코 코코아톡 클론코딩)](https://github.com/mongsam2/kokoa-clone)
 
 [JS (노마드코더 바닐라 JS 크롬 앱 만들기)](https://github.com/mongsam2/js-app)
 
