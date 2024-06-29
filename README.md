@@ -20,7 +20,7 @@
  <br/>
  
 
-## 멋쟁이 사자처럼 대학 12기
+## 멋쟁이 사자처럼 대학 12기(연합동아리)
 
 [멋쟁이 사자 처럼 대학 12기 아이디어톤](https://github.com/mongsam2/Living-Together)  
  <br/>
