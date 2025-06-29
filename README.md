@@ -2,12 +2,13 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a153d,50:302b63,100:00c9ff&fontColor=e0f7ff&height=170&section=header&text=Jaehyun%20Song&fontSize=50&desc=AI+%2B+Robot+and+Web&fontAlignY=30&descSize=20&descAlign=bottom&descAlignY=55)
   <h2>🛠️Tech Stack🛠️ </h2>        
-  Main🥇     
+  <h6>🥇main🥇</h6>    
   
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
 
-  Experienced🥈     
+  <h6>🥈experienced🥈</h6>     
+  
   ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
   ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
@@ -15,7 +16,8 @@
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
   ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-  Learning🔥     
+  <h6>🔥studying🔥</h6>    
+  
   ![ROS2 Badge](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ROS&logoColor=white)
   ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
   ![React Badge](https://img.shields.io/badge/React-212121?style=flat&logo=React&logoColor=61DAFB)
@@ -35,7 +37,6 @@
 - **한양대학교(ERICA)**  | 인공지능학과  | 로봇공학과 | 3학년 *(전공: 4.24 / 4.5)*
 - **멋쟁이 사자처럼 대학 12기, 13기** *(백엔드 운영진)*
 - **네이버 부스트캠프 AI tech 7기** *(Computer Vision Track)*
-- 학부생 연구원
         
 
 ## Collaboration Tools
