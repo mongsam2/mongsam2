@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a153d,50:302b63,100:00c9ff&fontColor=e0f7ff&height=150&section=header&text=Jaehyun%20Song&fontSize=50&desc=AI+%2B+Robot+and+Web&fontAlignY=30&descSize=20&descAlign=bottom&descAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a153d,50:302b63,100:00c9ff&fontColor=e0f7ff&height=170&section=header&text=Jaehyun%20Song&fontSize=50&desc=AI+%2B+Robot+and+Web&fontAlignY=30&descSize=20&descAlign=bottom&descAlignY=55)
   <h2>🛠️Tech Stack🛠️ </h2>        
   Main🥇     
   
