@@ -24,7 +24,7 @@
   ![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh121476)](https://solved.ac/sjh121476/)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsam2&show_icons=true&theme=shadow_blue&line_height=21)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsam2&show_icons=true&theme=default&line_height=21)
 </div>
 
 ## Contact
