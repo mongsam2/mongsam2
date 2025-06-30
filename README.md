@@ -1,6 +1,8 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a153d,50:302b63,100:00c9ff&fontColor=e0f7ff&height=170&section=header&text=Jaehyun%20Song&fontSize=50&desc=AI+%2B+Robot+and+Web&fontAlignY=30&descSize=20&descAlign=bottom&descAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a153d,50:302b63,100:00c9ff&fontColor=e0f7ff&height=160&section=header&text=Jaehyun%20Song&fontSize=50&desc=AI+%2B+Robot+and+Web&fontAlignY=30&descSize=20&descAlign=bottom&descAlignY=55)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh121476)](https://solved.ac/sjh121476/)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsam2&show_icons=true&theme=default&line_height=21)
   <h2>🛠️Tech Stack🛠️ </h2>        
   <h6>🥇main🥇</h6>    
   
@@ -22,9 +24,6 @@
   ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
   ![React Badge](https://img.shields.io/badge/React-212121?style=flat&logo=React&logoColor=61DAFB)
   ![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh121476)](https://solved.ac/sjh121476/)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsam2&show_icons=true&theme=default&line_height=21)
 </div>
 
 ## Contact
