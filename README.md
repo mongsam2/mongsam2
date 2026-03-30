@@ -14,6 +14,7 @@
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+![Fastapi Badge](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 
 <h6>🥈experienced🥈</h6>     
 
@@ -26,7 +27,6 @@
 
 ![ROS2 Badge](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ROS&logoColor=white)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 ## Collaboration Tools
